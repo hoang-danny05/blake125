@@ -4,12 +4,12 @@
 
 ###
 
-<h1 align="center">Blake Ranniker the GOAT</h1>
+<h1 align="center">Blake Ranniker</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="assets/chef_jump.gif" alt="Brilliant animation of low-poly chef jumping." />
 </div>
 
 ###
