@@ -77,16 +77,13 @@
 
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Connect with me!</h2>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/blake-ranniker" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="blakeranniker@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
