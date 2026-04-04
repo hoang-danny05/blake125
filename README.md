@@ -4,21 +4,24 @@
 
 ###
 
-<h1 align="center">Blake Ranniker</h1>
+<h1 align="center">Hi! I'm Blake</h1>
 
 ###
 
-<p align="center">I'm a software developer with a passion for building tools and solving problems.</p>
-<p align="center">Recently, I've been working on a web-app for my CSE Capstone I in Angular and TypeScript.</p>
+<div style="display: flex; width: 100%;">
+
+<div style="flex: 1;">
+  <p>I'm a software developer with a passion for building tools and solving problems.<br>
+  Recently, I've been working on a web-app for my CSE Capstone I in Angular and TypeScript.</p>
+</div>
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=&preferLogin=false">
+  <img  alt="blake125's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/blake125?cardType=level&theme=github-dark&fontFamily=&preferLogin=false"/></a>
+</div>
+
+
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <h2 align="center">Languages</h2>
@@ -92,5 +95,11 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=blake125.blake125&"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blake125/blake125/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
