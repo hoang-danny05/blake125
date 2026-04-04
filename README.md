@@ -8,9 +8,9 @@
 
 ###
 
-<div style="display: flex; width: 100%;">
+<div style="width: 100%;" align="center">
 
-<div style="flex: 1;">
+<div>
   <p>I'm a software developer with a passion for building tools and solving problems.<br>
   Recently, I've been working on a web-app for my CSE Capstone I in Angular and TypeScript.</p>
 </div>
